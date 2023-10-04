@@ -65,6 +65,7 @@ function Dashboard() {
         ) : null}
       </div>
 
+      {data && 
       <div className="w-full flex justify-center items-center pt-[26px] pb-[24px] gap-[16px]">
         <div
           className="flex flex-row w-[32px] h-[32px] justify-center items-center rounded-[8px] border-solid border-[1px] border-[#D0D5DD] hover:cursor-pointer"
@@ -93,7 +94,7 @@ function Dashboard() {
         >
           {">"}
         </div>
-      </div>
+      </div> }
     </div>
   );
 }
