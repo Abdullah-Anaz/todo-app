@@ -1,1 +1,1 @@
-<img src='todo-app-screenshot' />
+<img src='todo-app-screenshot.png' />
